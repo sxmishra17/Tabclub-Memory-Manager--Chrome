@@ -1,0 +1,14 @@
+# Dev/build artifacts
+screenshots/
+*.zip
+node_modules/
+package.json
+package-lock.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.log
