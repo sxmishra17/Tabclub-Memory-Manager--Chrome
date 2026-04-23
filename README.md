@@ -4,7 +4,7 @@ A Firefox extension that automatically groups your browser tabs by website into 
 
 ![Firefox 139+](https://img.shields.io/badge/Firefox-139%2B-orange?logo=firefox)
 ![Manifest V3](https://img.shields.io/badge/Manifest-V3-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
+![License](https://img.shields.io/badge/License-Proprietary-red)
 ![No Data Collection](https://img.shields.io/badge/Privacy-No%20Data%20Collection-brightgreen)
 
 ## ✨ Features
