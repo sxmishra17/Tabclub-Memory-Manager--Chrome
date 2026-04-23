@@ -92,4 +92,4 @@ Club_my_Tabs/
 
 ## 📝 License
 
-MIT — Powered by YuvaTech
+All Rights Reserved — Powered by YuvaTech
