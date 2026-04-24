@@ -93,3 +93,7 @@ Club_my_Tabs/
 ## 📝 License
 
 All Rights Reserved — Powered by YuvaTech
+
+---
+
+Developed by **Satish Mishra**, **Yuvatech Solutions USA, LLC**
